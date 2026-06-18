@@ -23,7 +23,7 @@ export default function Footer() {
           <div>
             <h4 style={h4}>Contact</h4>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-              <a href="mailto:kirst@ktplace.co.uk" className="footer-link">kirst@ktplace.co.uk</a>
+              <a href="mailto:enquiries@ktplace.co.uk" className="footer-link">enquiries@ktplace.co.uk</a>
               <a href="https://www.ktplace.co.uk" target="_blank" rel="noopener noreferrer" className="footer-link">www.ktplace.co.uk</a>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function Footer() {
           </div>
         </div>
         <div style={{ borderTop: '1px solid rgba(255,255,255,0.09)', paddingTop: 28, display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 12 }}>
-          <p style={{ fontSize: '0.84rem', color: 'rgba(255,255,255,0.35)' }}>© 2025 KT's Place. All rights reserved.</p>
+          <p style={{ fontSize: '0.84rem', color: 'rgba(255,255,255,0.35)' }}>© 2025 KT's Place. All rights reserved. Made by Oluwanifemi</p>
           <p style={{ fontSize: '0.84rem', color: 'rgba(255,255,255,0.35)' }}>Registered in England &amp; Wales</p>
         </div>
       </div>
