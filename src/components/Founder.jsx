@@ -10,7 +10,7 @@ export default function Founder() {
           <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 20 }}>
             <div style={{ width: 270, height: 270, borderRadius: '50%', background: 'linear-gradient(145deg, #D8CFE8, #C4B8DC)', border: '5px solid white', boxShadow: '0 16px 48px rgba(155,135,184,0.28)', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', overflow: 'hidden', position: 'relative' }}>
               <img src="/uploads/kirsty.jpeg" alt="Kirst" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top' }} />
-              <div style={{ position: 'absolute', bottom: 10, left: '50%', transform: 'translateX(-50%)', background: 'rgba(155,135,184,0.7)', color: 'white', fontSize: '0.65rem', fontWeight: 600, padding: '3px 10px', borderRadius: 20, whiteSpace: 'nowrap', letterSpacing: '0.04em' }}>Photo of Kirsty</div>
+              
             </div>
             <div style={{ textAlign: 'center' }}>
               <div style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: '1.3rem', color: '#1A3338' }}>Kirsty</div>
