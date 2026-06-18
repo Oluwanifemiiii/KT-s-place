@@ -58,7 +58,7 @@ export default function Nav() {
         <div className={`nav-links${open ? ' open' : ''}`}>
           <a href="#need" className="nav-link" style={linkStyle} onClick={close}>The Need</a>
           <a href="#services" className="nav-link" style={linkStyle} onClick={close}>Services</a>
-          <a href="#founder" className="nav-link" style={linkStyle} onClick={close}>About Kirst</a>
+          <a href="#founder" className="nav-link" style={linkStyle} onClick={close}>About Kirsty</a>
           <a
             href="#contact"
             className="cta-primary"
