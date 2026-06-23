@@ -36,10 +36,10 @@ export default function Hero() {
             textWrap: 'pretty',
           }}
         >
-          Supporting Families.<br />Empowering Children.<br />Building Futures.
+          Safe. Heard. Supported.
         </h1>
         <p style={{ fontSize: '1.15rem', color: '#4A6E75', maxWidth: 520, margin: '0 auto 44px', lineHeight: 1.75, animation: 'heroFadeUp 0.9s 0.32s ease both' }}>
-          A safe, welcoming community hub for neurodiverse families across England.
+          A safe space for SEN families — wherever you are on the journey.
         </p>
         <div className="hero-ctas" style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap', animation: 'heroFadeUp 0.9s 0.46s ease both' }}>
           <a href="#need" className="cta-primary" style={{ background: '#1377A8', color: 'white', borderRadius: 50, padding: '16px 38px', textDecoration: 'none', fontWeight: 700, fontSize: '1.02rem', display: 'inline-block' }}>Learn More</a>

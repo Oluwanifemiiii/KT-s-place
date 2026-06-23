@@ -1,5 +1,5 @@
 const stats = [
-  { value: '1.6M', label: 'children with SEND in England', bg: '#F5FBFE', color: '#1377A8', border: 'rgba(19,119,168,0.1)' },
+  { value: '1.6M', label: 'children with SEND in London', bg: '#F5FBFE', color: '#1377A8', border: 'rgba(19,119,168,0.1)' },
   { value: '576K+', label: 'children with an EHCP — up 77% in 10 years', bg: '#FEF5EF', color: '#EF835B', border: 'rgba(239,131,91,0.12)' },
   { value: '68%', label: 'of parents report isolation', bg: '#F3EFF9', color: '#9B87B8', border: 'rgba(155,135,184,0.15)' },
   { value: '42%', label: 'of parents report negative mental health impact', bg: '#FEF5EF', color: '#EF835B', border: 'rgba(239,131,91,0.12)' },

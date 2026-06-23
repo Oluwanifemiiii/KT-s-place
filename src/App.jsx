@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import Nav from './components/Nav.jsx';
 import Hero from './components/Hero.jsx';
 import TrustBar from './components/TrustBar.jsx';
+import Intro from './components/Intro.jsx';
 import Need from './components/Need.jsx';
 import MissionVision from './components/MissionVision.jsx';
 import Services from './components/Services.jsx';
@@ -40,6 +41,7 @@ export default function App() {
       <Nav />
       <Hero />
       <TrustBar />
+      <Intro />
       <Need />
       <MissionVision />
       <Services />

@@ -13,7 +13,7 @@ export default function MissionVision() {
               <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" /></svg>
             </div>
             <h3 style={{ fontFamily: "'Nunito', sans-serif", fontSize: '1.65rem', fontWeight: 900, color: '#1A3338', marginBottom: 16 }}>Our Mission</h3>
-            <p style={{ color: '#2A4856', lineHeight: 1.8, fontSize: '1.02rem', textWrap: 'pretty' }}>To provide accessible, community-led support for families raising children with SEND — offering practical guidance, emotional support, and expert advocacy so that no family feels alone on their journey.</p>
+            <p style={{ color: '#2A4856', lineHeight: 1.8, fontSize: '1.02rem', textWrap: 'pretty' }}>At KT's Place, our mission is to ensure that no SEN family ever feels alone. We provide specialist consultancy, advocacy, and family support that is rooted in empathy, expertise, and an unwavering commitment to making every family feel safe, heard, and empowered — wherever they are on their SEN journey.</p>
           </div>
           <div style={{ background: 'linear-gradient(140deg, #EDE8F5 0%, #DDD3EE 100%)', borderRadius: 28, padding: '52px 44px', position: 'relative', overflow: 'hidden' }}>
             <div style={{ position: 'absolute', top: -30, right: -30, width: 160, height: 160, borderRadius: '50%', background: 'rgba(155,135,184,0.12)', pointerEvents: 'none' }} />

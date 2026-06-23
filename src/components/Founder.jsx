@@ -14,7 +14,7 @@ export default function Founder() {
             </div>
             <div style={{ textAlign: 'center' }}>
               <div style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: '1.3rem', color: '#1A3338' }}>Kirsty</div>
-              <div style={{ color: '#6B5B8A', fontSize: '0.88rem', fontWeight: 500, lineHeight: 1.5, marginTop: 2 }}>SEN Professional<br />Founder, KT's Place</div>
+              <div style={{ color: '#6B5B8A', fontSize: '0.88rem', fontWeight: 500, lineHeight: 1.5, marginTop: 2 }}>CEO / SEN Consultant<br />Founder, KT's Place</div>
             </div>
           </div>
           <div>

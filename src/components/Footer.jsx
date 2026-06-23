@@ -17,7 +17,7 @@ export default function Footer() {
             <div style={{ background: 'rgba(255,255,255,0.07)', borderRadius: 16, padding: '10px 14px', display: 'inline-block', marginBottom: 18 }}>
               <img src="/uploads/transparent-logo.svg" alt="KT's Place" style={{ height: 72, width: 'auto', display: 'block' }} />
             </div>
-            <p style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.92rem', lineHeight: 1.75, maxWidth: 280 }}>Supporting Families. Empowering Children. Building Futures.</p>
+            <p style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.92rem', lineHeight: 1.75, maxWidth: 280 }}>KT's Place was built on one belief: that every SEN family deserves somewhere to feel safe, heard, and supported. Whatever you're facing, you don't have to face it alone.</p>
             <p style={{ color: 'rgba(255,255,255,0.35)', fontSize: '0.85rem', marginTop: 12 }}>UK-based · SEND community hub</p>
           </div>
           <div>
